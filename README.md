@@ -67,7 +67,7 @@ sns.heatmap(df.corr(),annot=True)
 ```
 # Output:
 ## Data:
-
+/home/sec/Music/1.png
 ## Data head:
 
 ## Data Information:
