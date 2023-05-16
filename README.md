@@ -67,22 +67,34 @@ sns.heatmap(df.corr(),annot=True)
 ```
 # Output:
 ## Data:
-/home/sec/Music/1.png
+![image](https://github.com/rakesh9339/Ex-04-Multivariate-Analysis/assets/121115650/5fb0bf08-8a69-40c9-9b02-b916f25550f2)
+
 ## Data head:
+![image](https://github.com/rakesh9339/Ex-04-Multivariate-Analysis/assets/121115650/0dc75325-b1bb-49fb-ac97-7c763766bc24)
 
 ## Data Information:
+![image](https://github.com/rakesh9339/Ex-04-Multivariate-Analysis/assets/121115650/ad8c7d1d-7f22-49a9-b59e-3eae0e654986)
 
 ## Data describe:
+![image](https://github.com/rakesh9339/Ex-04-Multivariate-Analysis/assets/121115650/24122424-f332-4d42-a1ae-269aabaadeb1)
 
 ## Data Null Values:
+![image](https://github.com/rakesh9339/Ex-04-Multivariate-Analysis/assets/121115650/731db795-9fee-4d19-b391-1641b0dc1d8c)
 
 ## Data Types:
+![image](https://github.com/rakesh9339/Ex-04-Multivariate-Analysis/assets/121115650/3cd88921-edf9-4e51-b65e-65d8f92e5c51)
 
 ## Scatterplot:
+![image](https://github.com/rakesh9339/Ex-04-Multivariate-Analysis/assets/121115650/6b6d4344-4ffc-4c8a-a2e8-a18e8d959b9d)
 
 ## Barplot:
+![image](https://github.com/rakesh9339/Ex-04-Multivariate-Analysis/assets/121115650/103c029e-7db0-4b8e-9b32-9e1d35daceca)
+![image](https://github.com/rakesh9339/Ex-04-Multivariate-Analysis/assets/121115650/4fbf8689-6bc9-4fbf-89dc-48284b98eb62)
+![image](https://github.com/rakesh9339/Ex-04-Multivariate-Analysis/assets/121115650/05cbc63b-bd17-4ca3-82b1-871233b12c1c)
 
 ## Correlation and Heatmap:
+![image](https://github.com/rakesh9339/Ex-04-Multivariate-Analysis/assets/121115650/d2661b82-650b-4667-a5d2-9684856a8e46)
+![image](https://github.com/rakesh9339/Ex-04-Multivariate-Analysis/assets/121115650/9aca5e7c-e72b-4b07-9877-481c07954c88)
 
 # Result:
 
